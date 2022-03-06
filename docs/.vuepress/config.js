@@ -1,5 +1,5 @@
 const glob = require('glob')
-const { join, relative } = require('path')
+const { join, relative, resolve } = require('path')
 
 function getChildren(pattern) {
   let children = glob.sync(join(__dirname, pattern))
@@ -15,6 +15,12 @@ module.exports = {
   lang: 'zh-CN',
   title: '御宅世界',
   description: '动画专题文档',
+  plugins: [
+    [
+      '@vuepress/register-components',
+      { componentsDir: resolve(__dirname, './components') },
+    ],
+  ],
 
   // 主题和它的配置
   // theme: '@vuepress/theme-default',

@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: 优莱卡 - AO
-description: 优莱卡(エウレカ / Eureka)
+title: 优莱卡
+description: 优莱卡(エウレカ / Eureka) - AO
 ---
 
 # 优莱卡
