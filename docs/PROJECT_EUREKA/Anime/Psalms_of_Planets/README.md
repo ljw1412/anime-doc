@@ -6,6 +6,10 @@ description: 交响诗篇Eureka seveN 相关基础信息介绍。
 
 # 交响诗篇 Eureka seveN
 
+<Badge type="tip" text="动画" vertical="middle" />
+<Badge type="tip" text="2005" vertical="middle" />
+<Badge type="warning" text="全50话+1话OVA" vertical="middle" />
+
 [Psalms of Planets Eureka seveN]
 
 Project EUREKA 的一环，以动画为主轴进行跨媒体展开的作品群的名称。  

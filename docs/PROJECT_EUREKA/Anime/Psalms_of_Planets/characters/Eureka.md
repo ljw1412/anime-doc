@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: 优莱卡
+title: 优莱卡 - 交响诗篇
 description: 优莱卡(エウレカ / Eureka)
 ---
 

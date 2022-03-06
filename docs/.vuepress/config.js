@@ -51,20 +51,20 @@ module.exports = {
                   text: '交响诗篇Eureka seveN',
                   collapsible: true,
                   children: [
-                    '/EUREKA_SEVEN/Psalms_of_Planets/',
+                    '/PROJECT_EUREKA/Anime/Psalms_of_Planets/',
                     {
                       text: '角色',
                       collapsible: true,
-                      link: '/EUREKA_SEVEN/Psalms_of_Planets/characters/',
+                      link: '/PROJECT_EUREKA/Anime/Psalms_of_Planets/characters/',
                       children: getChildren(
-                        '../EUREKA_SEVEN/Psalms_of_Planets/characters/!(README).md'
+                        '../PROJECT_EUREKA/Anime/Psalms_of_Planets/characters/!(README).md'
                       ),
                     },
                     {
                       text: '设定',
                       collapsible: true,
                       children: getChildren(
-                        '../EUREKA_SEVEN/Psalms_of_Planets/settings/*.md'
+                        '../PROJECT_EUREKA/Anime/Psalms_of_Planets/settings/*.md'
                       ),
                     },
                   ],
@@ -72,8 +72,17 @@ module.exports = {
                 {
                   text: 'EUREKA SEVEN AO',
                   collapsible: true,
-                  children: ['/EUREKA_SEVEN/AO/'],
+                  children: ['/PROJECT_EUREKA/Anime/AO/'],
                 },
+              ],
+            },
+            {
+              text: '电影',
+              children: [
+                '/PROJECT_EUREKA/Movie/Good_night_Sleep_tight_Young_lovers.md',
+                '/PROJECT_EUREKA/Movie/HI-EVOLUTION_1.md',
+                '/PROJECT_EUREKA/Movie/ANEMONE.md',
+                '/PROJECT_EUREKA/Movie/EUREKA.md',
               ],
             },
             {
