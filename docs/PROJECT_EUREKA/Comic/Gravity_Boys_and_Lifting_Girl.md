@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 title: EUREKA SEVEN 重力少年&滑空少女
-description: 《EUREKA SEVEN 重力少年&滑空少女》相关基础信息介绍。
+description: 漫画《EUREKA SEVEN 重力少年&滑空少女》相关基础信息介绍。
 ---
 
 # Gravity Boys & Lifting Girl

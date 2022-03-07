@@ -102,10 +102,7 @@ module.exports = {
                 {
                   text: '交响诗篇EUREKA SEVEN 新秩序',
                 },
-
-                {
-                  text: 'EUREKA SEVEN AO',
-                },
+                '/PROJECT_EUREKA/Comic/AO',
               ],
             },
             {
