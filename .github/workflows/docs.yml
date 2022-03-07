@@ -55,3 +55,13 @@ jobs:
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  gitee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hub Mirror Action.
+        uses: Yikun/hub-mirror-action@v1.2
+        with:
+          src: github/ljw1412
+          dst: gitee/ljw1412
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
