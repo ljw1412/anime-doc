@@ -95,9 +95,7 @@ module.exports = {
             {
               text: '漫画',
               children: [
-                {
-                  text: 'EUREKA SEVEN 重力少年&滑空少女',
-                },
+                '/PROJECT_EUREKA/Comic/Gravity_Boys_and_Lifting_Girl',
                 {
                   text: '交响诗篇EUREKA SEVEN',
                 },
