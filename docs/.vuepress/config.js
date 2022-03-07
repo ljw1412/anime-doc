@@ -12,6 +12,7 @@ function getChildren(pattern) {
 
 module.exports = {
   // 站点配置
+  base: '/anime-doc/',
   lang: 'zh-CN',
   title: '御宅世界',
   description: '动画专题文档',
