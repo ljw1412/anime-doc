@@ -96,13 +96,11 @@ module.exports = {
               text: '漫画',
               children: [
                 '/PROJECT_EUREKA/Comic/Gravity_Boys_and_Lifting_Girl',
-                {
-                  text: '交响诗篇EUREKA SEVEN',
-                },
-                {
-                  text: '交响诗篇EUREKA SEVEN 新秩序',
-                },
+                '/PROJECT_EUREKA/Comic/EUREKA_SEVEN',
+                '/PROJECT_EUREKA/Comic/EUREKA_SEVEN_new_order',
                 '/PROJECT_EUREKA/Comic/AO',
+                '/PROJECT_EUREKA/Comic/AO_nAnO',
+                '/PROJECT_EUREKA/Comic/AO_Save_A_Prayer',
               ],
             },
             {
@@ -111,6 +109,10 @@ module.exports = {
                 { text: 'Eureka Seven vol.1: The New Wave' },
                 { text: 'Eureka Seven vol.2: The New Vision' },
               ],
+            },
+            {
+              text: '小说',
+              children: [],
             },
           ],
         },
