@@ -6,7 +6,7 @@
         <td colspan="2"
           style="font-size: 0">
           <img v-if="image"
-            :src="image" />
+            :src="$withBase(image)" />
         </td>
       </tr>
       <tr v-for="(item,i) of info"
