@@ -8,7 +8,7 @@ description: 漫画《交响诗篇优莱卡7 AO ~Save A Prayer~》相关基础�
 
 [EUREKA SEVEN AO ~Save A Prayer~]
 
-<DocInfoCard image="/imgs/cover/AO_nAnO.jpg"
+<DocInfoCard image="/imgs/cover/AO_Save_A_Prayer.jpg"
   :info="[
     {label:'原名',value:'エウレカセブンAO ~Save A Prayer~'},
     {label:'地区',value:'日本'},
