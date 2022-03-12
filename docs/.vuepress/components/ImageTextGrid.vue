@@ -4,7 +4,7 @@
       v-for="item of list"
       :key="item.url">
       <acg-ratio-div class="image">
-        <img :src="item.image">
+        <img :src="$withBase(item.image)">
       </acg-ratio-div>
       <router-link class="text"
         :to="item.url">{{ item.name }}</router-link>
