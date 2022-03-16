@@ -55,7 +55,7 @@ module.exports = {
               text: '动画',
               children: [
                 {
-                  text: '交响诗篇Eureka seveN',
+                  text: '交响诗篇优莱卡7',
                   collapsible: true,
                   children: [
                     '/PROJECT_EUREKA/Anime/Psalms_of_Planets/',
@@ -77,7 +77,7 @@ module.exports = {
                   ],
                 },
                 {
-                  text: 'EUREKA SEVEN AO',
+                  text: '优莱卡7 AO',
                   collapsible: true,
                   children: ['/PROJECT_EUREKA/Anime/AO/'],
                 },
@@ -106,8 +106,8 @@ module.exports = {
             {
               text: '游戏',
               children: [
-                { text: 'Eureka Seven vol.1: The New Wave' },
-                { text: 'Eureka Seven vol.2: The New Vision' },
+                '/PROJECT_EUREKA/Game/The_New_Wave',
+                '/PROJECT_EUREKA/Game/The_New_Vision',
               ],
             },
             {

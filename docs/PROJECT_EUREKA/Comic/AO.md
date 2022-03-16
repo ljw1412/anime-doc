@@ -1,10 +1,10 @@
 ---
 lang: zh-CN
-title: 交响诗篇优莱卡7 AO
-description: 漫画《交响诗篇优莱卡7 AO》相关基础信息介绍。
+title: 优莱卡7 AO
+description: 漫画《优莱卡7 AO》相关基础信息介绍。
 ---
 
-# 交响诗篇优莱卡 7 AO
+# 优莱卡 7 AO
 
 <Badge type="tip" text="漫画" vertical="middle" />
 <Badge type="tip" text="2012" vertical="middle" />

@@ -1,10 +1,10 @@
 ---
 lang: zh-CN
 title: 作品介绍
-description: AO 相关基础信息介绍。
+description: 优莱卡7 AO 相关基础信息介绍。
 ---
 
-# EUREKA SEVEN AO
+# 优莱卡 7 AO
 
 <Badge type="tip" text="动画" vertical="middle" />
 <Badge type="tip" text="2012" vertical="middle" />

@@ -1,10 +1,10 @@
 ---
 lang: zh-CN
-title: 交响诗篇优莱卡7 nAnO
-description: 漫画《交响诗篇优莱卡7 nAnO》相关基础信息介绍。
+title: 优莱卡7 nAnO
+description: 漫画《优莱卡7 nAnO》相关基础信息介绍。
 ---
 
-# 交响诗篇优莱卡 7 nAnO
+# 优莱卡 7 nAnO
 
 [EUREKA SEVEN nAnO]
 
