@@ -22,7 +22,7 @@ export default defineComponent({
 
 <style lang="scss">
 .acg-image {
-  padding: 4px;
+  padding: 2px;
   box-sizing: border-box;
   border: 1px solid var(--c-border);
   font-size: 0;
