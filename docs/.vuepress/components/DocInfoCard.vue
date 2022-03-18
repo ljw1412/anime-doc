@@ -1,16 +1,12 @@
 <template>
-  <div class="doc-info-card"
-    :class="[ left ? 'is-left' : 'is-right' ]">
+  <div class="doc-info-card" :class="[left ? 'is-left' : 'is-right']">
     <table>
       <tr>
-        <td colspan="2"
-          style="font-size: 0">
-          <img v-if="image"
-            :src="$withBase(image)" />
+        <td colspan="2" style="font-size: 0">
+          <img v-if="image" :src="$withBase(image)" />
         </td>
       </tr>
-      <tr v-for="(item,i) of info"
-        :key="item.label + i">
+      <tr v-for="(item, i) of info" :key="item.label + i">
         <td style="width: 80px;">{{ item.label }}</td>
         <td v-html="formatData(item.value)"></td>
       </tr>
@@ -70,6 +66,7 @@ export default defineComponent({
 @media (max-width: #{$MQMobile}) {
   .doc-info-card {
     width: 100%;
+    margin-bottom: 12px;
   }
 }
 </style>
