@@ -1,13 +1,12 @@
 <template>
   <div class="image-text-grid">
-    <div class="image-text-item"
-      v-for="item of list"
-      :key="item.url">
-      <acg-ratio-div class="image">
-        <img :src="$withBase(item.image)">
-      </acg-ratio-div>
-      <router-link class="text"
-        :to="item.url">{{ item.name }}</router-link>
+    <div class="image-text-item" v-for="item of list" :key="item.url">
+      <router-link :to="item.url">
+        <acg-ratio-div class="image">
+          <img :src="$withBase(item.image)" :style="{ 'object-fit': fit }" />
+        </acg-ratio-div>
+        <div class="text">{{ item.name }}</div>
+      </router-link>
     </div>
   </div>
 </template>
@@ -17,7 +16,10 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   name: "ImageTextGrid",
-  props: { list: { type: Array, default: () => [] } },
+  props: {
+    list: { type: Array, default: () => [] },
+    fit: String
+  },
 });
 </script>
 
@@ -34,6 +36,9 @@ export default defineComponent({
     .image {
       width: 100%;
       font-size: 0;
+      img {
+        pointer-events: none;
+      }
     }
     .text {
       display: block;

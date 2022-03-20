@@ -1,15 +1,36 @@
 ---
 lang: zh-CN
-title: 优莱卡7 新浪潮
-description: PS2游戏 《优莱卡7 新浪潮》相关基础信息介绍。
+title: (PS2)优莱卡7 TR系列
+description: PS2游戏《优莱卡7 TR系列》相关基础信息介绍。
 ---
 
-# 优莱卡 7 新浪潮
+# 优莱卡 7 TR 系列游戏
+
+<AcgImage src="/imgs/cover/ps2_vol_1.png" left title="Vol. 1: The New Wave" width="160px" style="margin-right: 12px;"/>
+
+**优莱卡 7 新浪潮**
 
 [エウレカセブン TR1:NEW WAVE]  
 [Eureka Seven Vol. 1: The New Wave]
 
-## 概要
+日本发售: 2005 年 10 月 27 日  
+北美发售: 2006 年 10 月 24 日
+
+<div style="height: 70px;"></div>
+
+<AcgImage src="/imgs/cover/ps2_vol_2.png" left title="Vol. 2: The New Vision" width="160px" style="margin-right: 12px;"/>
+
+**优莱卡 7 新视野**
+
+[エウレカセブン NEW VISION]  
+[Eureka Seven Vol. 2: The New Vision]
+
+日本发售: 2006 年 5 月 11 日  
+北美发售: 2007 年 4 月 17 日
+
+<div style="height:70px;"></div>
+
+## 介绍
 
 以万代和骨头社为中心发起的跨媒体项目“Project EUREKA”的核心作品之一。  
 描绘了漫画[《优莱卡 7 重力少年&滑空少女》](/anime-doc/PROJECT_EUREKA/Comic/Gravity_Boys_and_Lifting_Girl)和 TV 动画[《交响诗篇优莱卡 7》](/anime-doc/PROJECT_EUREKA/Anime/Psalms_of_Planets/)时间线之间的“另一个优莱卡 7”的故事。  
@@ -42,7 +63,7 @@ description: PS2游戏 《优莱卡7 新浪潮》相关基础信息介绍。
 
 CV: 下野纮
 
-游戏版漫画以及《NEW WAVE》、《NEW VISION》的主人公。11982 年 4 月 21 日出生。出身于名门军人世家斯特金家族，与自己的意愿无关地走着军人精英路线。但是，讨厌既定的未来，最终按照自己的意志没有选择精英军官学校，而是加入 LFO 驾驶员养成机关 NW(新浪潮)。滑空是从 14 岁时遇到的少年“BB”开始的，爱用的板是哥哥之一的托里诺送给他的。尽管学业成绩优秀，但却不擅长记住别人的名字，学生时代经常发生同学的长相和名字对不上的情况。性格是一边倒的耿直，说出来就是笨蛋诚实。LFO 的知识相当丰富，一眼就能辨别出 LFO 的型号。
+游戏版漫画以及《NEW WAVE》、《NEW VISION》的主人公。11982 年 4 月 21 日出生。出身于名门军人世家斯特金家族，与自己的意愿无关地走着军人精英路线。但是，讨厌既定的未来，最终按照自己的意志放弃了精英军官学校，而是加入 LFO 驾驶员养成机关 NW(新浪潮)。滑空是从 14 岁时遇到的少年“BB”开始的，爱用的板是哥哥之一的托里诺送给他的。尽管学业成绩优秀，但却不擅长记住别人的名字，学生时代经常发生同学的长相和名字对不上的情况。性格是一边倒的耿直，说出来就是笨蛋诚实。LFO 的知识相当丰富，一眼就能辨别出 LFO 的型号。
 
 **NEW WAVE**
 
@@ -61,6 +82,8 @@ _※名字来自英国摇滚乐队“新秩序(New Order)”的伯纳德·萨姆
 <AcgImage src="/imgs/characters/person_Ruri.png" title="Ruri" width="200px" />
 
 CV: 丰口惠美
+
+游戏版漫画以及《NEW WAVE》《NEW VISION》的另一个主人公。有着栗色的头发和红色的瞳特征的美少女。脚码是 24.5(史蒂芬调查)。拥有一流的 LFO 操纵技术，NW(新浪潮)的顶尖骑手。幼年时期，因居住的城市被卷入珊瑚岩的地壳变动而成为孤儿，在贫民窟过着贫穷的生活。有一天，他遇到了在滑空板时期的罗迪·弗雷姆，从他那里学到了滑空，并开始了滑空大赛的活动奖金赚钱。
 
 ::: warning
 正在完善中……

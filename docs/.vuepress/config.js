@@ -47,10 +47,8 @@ module.exports = {
         {
           text: 'PROJECT EUREKA',
           collapsible: true,
+          link: '/PROJECT_EUREKA/',
           children: [
-            {
-              text: '项目相关',
-            },
             {
               text: '动画',
               children: [
@@ -105,14 +103,14 @@ module.exports = {
             },
             {
               text: '游戏',
-              children: [
-                '/PROJECT_EUREKA/Game/The_New_Wave',
-                '/PROJECT_EUREKA/Game/The_New_Vision',
-              ],
+              children: ['/PROJECT_EUREKA/Game/PS2_TR'],
             },
             {
               text: '小说',
               children: [],
+            },
+            {
+              text: '项目相关',
             },
           ],
         },

@@ -25,6 +25,7 @@ export default defineComponent({
   padding: 2px;
   box-sizing: border-box;
   border: 1px solid var(--c-border);
+  background-color: var(--c-bg);
   font-size: 0;
 
   &.is-left {
