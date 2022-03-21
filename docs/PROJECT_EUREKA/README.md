@@ -27,7 +27,7 @@ const comicList = [
 ]
 const gameList = [
   {name:'优莱卡7 新浪潮', image:'/imgs/cover/ps2_vol_1.png', url:'./Game/PS2_TR'},
-  {name:'优莱卡7 新视野', image:'/imgs/cover/ps2_vol_2.png', url:'./Game/PS2_TR'},
+  {name:'优莱卡7 新景象', image:'/imgs/cover/ps2_vol_2.png', url:'./Game/PS2_TR'},
   {name:'交响诗篇优莱卡7', image:'/imgs/cover/psp.jpg', url:''},
   {name:'优莱卡7 AO Attack Legend', image:'/imgs/cover/ps3.jpg', url:''},
 ]
