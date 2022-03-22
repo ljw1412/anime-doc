@@ -28,6 +28,10 @@ export default defineComponent({
   background-color: var(--c-bg);
   font-size: 0;
 
+  img {
+    width: 100%;
+  }
+
   &.is-left {
     float: left;
     margin: 4px 4px 4px 0;
