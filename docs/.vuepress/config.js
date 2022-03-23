@@ -39,6 +39,10 @@ module.exports = {
         text: '库主B站',
         link: 'https://space.bilibili.com/6517603',
       },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/ljw1412/anime-doc',
+      },
     ],
     // 你可以省略 .md 拓展名，同时以 / 结尾的路径将会被视为 */README.md，这个链接的文字将会被自动获取到（无论你是声明为页面的第一个 header，还是明确地在 YAML front matter 中指定页面的标题）。如果你想要显示地指定链接的文字，使用一个格式为 [link, text] 的数组。
     sidebar: {
@@ -111,6 +115,7 @@ module.exports = {
             },
             {
               text: '项目相关',
+              children: ['/PROJECT_EUREKA/Project/More_Data'],
             },
           ],
         },

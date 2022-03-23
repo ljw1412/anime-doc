@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 heroText: 御宅世界
-tagline: 专题资料库
+tagline: 二次元专题资料库
 actions:
   - text: 立刻进入
     link: /welcome
