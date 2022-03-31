@@ -16,7 +16,9 @@ module.exports = {
   lang: 'zh-CN',
   title: '御宅世界',
   description: '动画专题文档',
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/anime-doc/PROJECT_EUREKA/favicon.ico' }],
+  ],
   plugins: [
     [
       '@vuepress/register-components',
