@@ -9,6 +9,11 @@ editLink: false
 
 ## 更新记录
 
+#### 2022-03-31
+
+- PROJECT EUREKA
+  - 《TR》系列游戏文档调整。
+
 #### 2022-03-22
 
 - PROJECT EUREKA
