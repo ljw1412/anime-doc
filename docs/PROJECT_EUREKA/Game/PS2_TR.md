@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: (PS2)优莱卡7 TR系列
+title: (PS2) 优莱卡7 TR系列
 description: PS2游戏《优莱卡7 TR系列》相关基础信息介绍。
 ---
 
