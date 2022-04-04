@@ -8,7 +8,7 @@ description: 金枝篇(The Golden Bough)
 
 [The Golden Bough]
 
-<AcgImage src="/imgs/settings/The-Golden-Bough.jpg" title="凤蝶构想" width="200px" />
+<AcgImage src="/imgs/settings/The-Golden-Bough.jpg" title="金枝篇" width="200px" />
 
 英国人类学家詹姆斯·乔治·弗雷泽创作的人类学著作。  
 动画中的版本是由松桥岁雄译制。凡头舍出版。(凡头舍【BONZU】源于动画的制作公司 BONES)
@@ -18,6 +18,10 @@ description: 金枝篇(The Golden Bough)
 杜伊幽闭中读的书。此外，霍兰德和查尔斯等也有阅读，可以认为他承担了各人物的行动原理和凤蝶构想理念的一角。
 
 获得神圣之树的金枝可以获得对祭司的挑战权，这与围绕优莱卡的争斗，通过杀害森林之王祭司来继承祭司职位的制度与诺瓦克家族的渊源重叠。祭司是与女神成对存在的论说，可以看出与寻找“成对”的要素类似的结构。
+
+#### 伪物
+
+指的是伪造的东西、模仿的东西。在《金枝篇》中，他相当于没有权力，为了更新换代而被祭祀的王。
 
 #### 其它
 

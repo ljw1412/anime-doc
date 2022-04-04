@@ -455,4 +455,4 @@ ED では、再びゲッコーステイトを追う為に、イズモ艦に乗�
 
 ※ 所有资源均来源于互联网，为了方便更多动画爱好者。这里只做收集和整理，出现任何问题与本站无关！
 
-[阿里云盘](https://www.aliyundrive.com/s/MAA2G6ouTDh)( 提取码: 5oe6 ，密码: Eureka )
+[阿里云盘](https://www.aliyundrive.com/s/MAA2G6ouTDh)( 提取码: 5oe6，密码: Eureka )

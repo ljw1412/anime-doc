@@ -16,7 +16,7 @@ description: 更多关于 PROJECT EUREKA 的原始资料和文献。
 
 [前往目录](https://web.archive.org/web/20220121081344/https://www.bandainamcoent.co.jp/cs/side_876/backnumber/)(原网址已被官方移除，此处为网页时光机的副本)
 
-[PDF 档整合下载](https://www.aliyundrive.com/s/Xpi2ZbWk237)(exe 自解压缩包, 提取码: w4n1 )
+[PDF 档整合下载](https://www.aliyundrive.com/s/Xpi2ZbWk237)(exe 自解压缩包,提取码: w4n1)
 
 ---
 
@@ -29,7 +29,7 @@ description: 更多关于 PROJECT EUREKA 的原始资料和文献。
 除了首次被描写的“爱之夏”的谜题和解读作品的关键词，名台词集以外，还登载了丰富的剧场版解说和设定资料等。  
 后面也含有优莱卡 7 的其它 TV 动画和剧场版相关的介绍和设定资料。
 
-[资料下载](https://www.aliyundrive.com/s/vqx2V2daYRb)(exe 自解压缩包 ,提取码:w4n1 ,密码: Eureka)
+[资料下载](https://www.aliyundrive.com/s/vqx2V2daYRb)(exe 自解压缩包,提取码:w4n1,密码: Eureka)
 
 <br>
 
