@@ -5,3 +5,5 @@ description: 优莱卡(エウレカ / Eureka) - 交响诗篇
 ---
 
 # 优莱卡
+
+[エウレカ / Eureka]
