@@ -9,6 +9,12 @@ editLink: false
 
 ## 更新记录
 
+#### 2022-05-05
+
+- PROJECT EUREKA
+  - 新增《交响诗篇》设定 - 领域。
+  - 新增设定图片。
+
 #### 2022-05-02
 
 - PROJECT EUREKA

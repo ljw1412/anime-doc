@@ -8,6 +8,8 @@ description: 光粒子(トラパー / Trapar)
 
 [トラパー / Trapar]
 
+<AcgImage src="/imgs/settings/Trapar.jpg" title="光粒子" width="200px" />
+
 トランサパランス・ライト・パーティクル  
 [Transparence Light Particle]  
 透明光粒子的简称。
