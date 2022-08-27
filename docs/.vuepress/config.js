@@ -90,9 +90,15 @@ module.exports = {
               text: '电影',
               children: [
                 '/PROJECT_EUREKA/Movie/Good_night_Sleep_tight_Young_lovers.md',
-                '/PROJECT_EUREKA/Movie/HI-EVOLUTION_1.md',
-                '/PROJECT_EUREKA/Movie/ANEMONE.md',
-                '/PROJECT_EUREKA/Movie/EUREKA.md',
+                {
+                  text: '交响诗篇优莱卡 7 超进化系列',
+                  link: '/PROJECT_EUREKA/Movie/HI-EVOLUTION.md',
+                  children: [
+                    '/PROJECT_EUREKA/Movie/HI-EVOLUTION_1.md',
+                    '/PROJECT_EUREKA/Movie/ANEMONE.md',
+                    '/PROJECT_EUREKA/Movie/EUREKA.md',
+                  ],
+                },
               ],
             },
             {
