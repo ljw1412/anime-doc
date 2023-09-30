@@ -9,6 +9,11 @@ editLink: false
 
 ## 更新记录
 
+#### 2023-09-30
+
+- PROJECT EUREKA
+  - 新增《安妮莫奈/交响诗篇优莱卡 7 超进化》的内容。
+
 #### 2022-05-05
 
 - PROJECT EUREKA
