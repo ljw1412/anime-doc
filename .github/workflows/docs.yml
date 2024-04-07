@@ -34,6 +34,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
+      # 配置Yarn的strict-ssl标志为false
+      - name: Yarn Configuration
+        run: yarn config set strict-ssl false
+
       # 如果缓存没有命中，安装依赖
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
