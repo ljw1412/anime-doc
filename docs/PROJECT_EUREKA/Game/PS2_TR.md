@@ -526,7 +526,7 @@ LFO ライダー養成施設・NW（ニューウェーブ）で使用されて�
 
 索亚队接到前往塞南塔维护公共秩序的任务。在那里他遇到了 11 岁离家出走的姆达吉。后来在塔内遇到了琉璃，后又主动协助琉璃强夺尼尔瓦修。在塔的屋顶上，让琉璃驾驶自己的 505，一心想保护她，终于启动了尼尔瓦修。凭借尼尔瓦修的性能和自身的力量，击败了前来阻止的索亚队的队友。逃出了塞南后，平安地把尼尔瓦修交给了霍兰德。当时，霍兰德问他要不要加入，但他拒绝了。然后前往琉璃逃脱时约定的“第一次见面的地方”再会。
 
-### 新浪潮(NEW VISION)
+### 新视野(NEW VISION)
 
 #### 第 01 章 アワ・フェーバリット・ショップ / Our Favorite Shop
 
@@ -566,6 +566,52 @@ LFO ライダー養成施設・NW（ニューウェーブ）で使用されて�
 ## 主题曲
 
 FLOW - 「Realize」
+
+## 配音演员
+
+### NEW WAVE
+
+待完善……
+
+### NEW VISION
+
+| Character                            | 文字                     | Voice Actor        | 文字          |
+| ------------------------------------ | ------------------------ | ------------------ | ------------- |
+| Sumner Sturgeon                      | サムナ・スタージョン     | Hiro Shimono       | 下野 紘       |
+| Ruri                                 | ルリ                     | Megumi Toyoguchi   | 豊口 めぐみ   |
+| Moondoggie                           | ムーンドギー             | Mamoru Miyano      | 宮野 真守     |
+| Hooky Zueff                          | フッキ・ズィーフ         | Wataru Takagi      | 高木 渉       |
+| Gillian Hamilton                     | ジリアン・ハミルトン     | Chie Nakamura      | 中村 千絵     |
+| Shaun Banks                          | ショーン・バンクス       | Mitsuaki Madono    | 真殿 光昭     |
+| Pez Wells                            | ペズ・ウェルズ           | Yasuyuki Kase      | 加瀬 康之     |
+| Steven Bisson                        | スティーブン・ビッスン   | Masakazu Morita    | 森田 成一     |
+| Roddy Flame                          | ロディ・フレイム         | Hiroaki Hirata     | 平田 広明     |
+| Afro Head                            | アフロヘッド             | Tomohiro Nishimura | 西村 朋紘     |
+| Dominic Sorel                        | ドミニク・ソレル         | Shigenori Yamazaki | 山崎 樹範     |
+| Wes (Iron Joe)                       | ウェス（アイアンジョー） | Wataru Hatano      | 羽多野 渉     |
+| Dotti                                | ドッティ                 | Yōsuke Akimoto     | 秋元 羊介     |
+| Kylee                                | カイリー                 | Miho Yamada        | 山田 美穂     |
+| Emil                                 | エミル                   | Mie Sonozaki       | 園崎 未恵     |
+| Collins                              | コリンズ                 | Rintarō Nishi      | 西 凜太朗     |
+| Bing                                 | ビング                   | Makoto Yasumura    | 保村 真       |
+| Natabachi Brothers (Older Brother)   | ナタバチ兄弟 (兄)        | Kazuki Taketani    | 竹谷 和樹     |
+| Natabachi Brothers (Younger Brother) | ナタバチ兄弟 (弟)        | Kōta Suzuki        | 鈴木 孝太     |
+| Tolman                               | トールマン               | Takayuki Kondō     | 近藤 孝行     |
+| Nicola Mills                         | ニコラ・ミルズ           | Masaru Ikeda       | 池田 勝       |
+| Arms Dealer                          | 武器商人                 | Kōsuke Toriumi     | 鳥海 浩輔     |
+| Radio Voice                          | ラジオの声               | Hiroyuki Shibamoto | 柴本 浩行     |
+| Commander                            | 司令官                   | Keiji Hirai        | 平井 啓二     |
+| Deputy Commander                     | 副司令官                 | Shinya Fukumatsu   | ふくまつ 進紗 |
+| Air Traffic Controller               | 管制官                   | Ōki Sugiyama       | 杉山 大       |
+| Intelligence Officer                 | 情報部員                 | Atsushi Imaruoka   | 伊丸岡 篤     |
+| Bester Cup Announcer                 | ベスタカップアナウンサー | Yūichi Nakamura    | 中村 悠一     |
+| Rural Game Announcer                 | 野良試合アナウンサー     | Otoya Kawano       | かわの をとや |
+| Renton Thurston                      | レントン・サーストン     | Yūko Sanpei        | 三瓶 由布子   |
+| Eureka                               | エウレカ                 | Kaori Nazuka       | 名塚 佳織     |
+| Holland                              | ホランド                 | Keiji Fujiwara     | 藤原 啓治     |
+| Matthieu                             | マシュー                 | Akio Nakamura      | 中村 彰男     |
+| Hilda                                | ヒルダ                   | Mayumi Asano       | 浅野 まゆみ   |
+| Anemone                              | アネモネ                 | Ami Koshimizu      | 小清水 亜美   |
 
 ## 相关链接
 
