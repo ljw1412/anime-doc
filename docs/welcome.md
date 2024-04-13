@@ -9,6 +9,12 @@ editLink: false
 
 ## 更新记录
 
+#### 2024-04-13
+
+- PROJECT EUREKA
+  - 完善《优莱卡 7 TR 系列游戏》的文档部分汉化。
+  - 新增《交响诗篇》设定 - 柱桩。
+
 #### 2023-09-30
 
 - PROJECT EUREKA
