@@ -25,7 +25,7 @@ jobs:
 
       # 缓存 node_modules
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         id: yarn-cache
         with:
           path: |
@@ -63,7 +63,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hub Mirror Action.
-        uses: Yikun/hub-mirror-action@v1.3
+        uses: Yikun/hub-mirror-action@v1.5
         with:
           src: github/ljw1412
           dst: gitee/ljw1412
