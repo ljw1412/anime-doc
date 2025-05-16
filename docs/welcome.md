@@ -9,6 +9,11 @@ editLink: false
 
 ## 更新记录
 
+#### 2025-05-16
+
+- PROJECT EUREKA
+  - 完善《交响诗篇优莱卡 7 彩虹满载》的文档。
+
 #### 2025-02-21
 
 - PROJECT EUREKA
