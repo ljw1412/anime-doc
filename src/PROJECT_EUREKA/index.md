@@ -37,20 +37,20 @@ const novelList = [
 
 ## 动画
 
-<image-text-grid :list="animeList"/>
+<image-text-grid :list="animeList" style="margin-top:8px;"/>
 
 ## 电影
 
-<image-text-grid :list="movieList"/>
+<image-text-grid :list="movieList" style="margin-top:8px;"/>
 
 ## 漫画
 
-<image-text-grid :list="comicList"/>
+<image-text-grid :list="comicList" style="margin-top:8px;"/>
 
 ## 游戏
 
-<image-text-grid :list="gameList"/>
+<image-text-grid :list="gameList" style="margin-top:8px;"/>
 
 ## 小说
 
-<image-text-grid :list="novelList"/>
+<image-text-grid :list="novelList" style="margin-top:8px;"/>

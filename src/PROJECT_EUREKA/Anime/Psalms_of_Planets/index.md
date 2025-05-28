@@ -1,11 +1,15 @@
 ---
 lang: zh-CN
-title: 作品介绍
+title: 交响诗篇优莱卡7
 description: 交响诗篇优莱卡7 相关基础信息介绍。
+outline: deep
 ---
 
 # 交响诗篇优莱卡 7
 
+<Badge type="tip" text="动画" vertical="middle" />
+<Badge type="tip" text="2005" vertical="middle" />
+<Badge type="warning" text="全50话+1话OVA" vertical="middle" />
 <script setup>
 const docInfo = [
   {label:'原名',value:'交響詩篇エウレカセブン'},
@@ -23,10 +27,6 @@ const docInfo = [
   {label:'在线观看',value:'<a href="https://www.bilibili.com/bangumi/media/md790/" target="__blank">哔哩哔哩</a>'}
 ]
 </script>
-
-<Badge type="tip" text="动画" vertical="middle" />
-<Badge type="tip" text="2005" vertical="middle" />
-<Badge type="warning" text="全50话+1话OVA" vertical="middle" />
 
 [Psalms of Planets Eureka seveN]
 
