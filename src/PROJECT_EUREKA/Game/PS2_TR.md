@@ -6,9 +6,11 @@ description: PS2游戏《优莱卡7 TR系列》相关基础信息介绍。
 
 # 优莱卡 7 TR 系列游戏
 
-::: warning
+::: warning 提示
 正在完善中……
 :::
+
+<br/>
 
 <AcgImage src="/imgs/cover/ps2_vol_1.png" left title="Vol. 1: The New Wave" width="160px" style="margin-right: 12px;"/>
 
@@ -20,7 +22,7 @@ description: PS2游戏《优莱卡7 TR系列》相关基础信息介绍。
 日本发售: 2005 年 10 月 27 日  
 北美发售: 2006 年 10 月 24 日
 
-<div style="height: 70px;"></div>
+<div style="height: 20px;clear:both;"></div>
 
 <AcgImage src="/imgs/cover/ps2_vol_2.png" left title="Vol. 2: The New Vision" width="160px" style="margin-right: 12px;"/>
 
@@ -37,7 +39,7 @@ description: PS2游戏《优莱卡7 TR系列》相关基础信息介绍。
 ## 介绍
 
 以万代和骨头社为中心发起的跨媒体项目“Project EUREKA”的核心作品之一。  
-描绘了漫画[《优莱卡 7 重力少年&滑空少女》](/anime-doc/PROJECT_EUREKA/Comic/Gravity_Boys_and_Lifting_Girl)和 TV 动画[《交响诗篇优莱卡 7》](/anime-doc/PROJECT_EUREKA/Anime/Psalms_of_Planets/)时间线之间的“另一个优莱卡 7”的故事。  
+描绘了漫画[《优莱卡 7 重力少年&滑空少女》](/PROJECT_EUREKA/Comic/Gravity_Boys_and_Lifting_Girl)和 TV 动画[《交响诗篇优莱卡 7》](/PROJECT_EUREKA/Anime/Psalms_of_Planets/)时间线之间的“另一个优莱卡 7”的故事。  
 与 TV 动画一样，是以“boy meets girl”为概念制作，核心制作人员也与 TV 动画相同。  
 在本作品中，以 TV 动画中作为敌对登场的“塔州联邦军”的视角进行故事展开，并描绘了动画中没有明确描写的联邦军时代的霍兰德和他发动叛乱时军队内部的实情，还有关于金发小哥姆达吉在加入月光洲之前的活跃表现。
 

@@ -31,9 +31,9 @@ const docInfo = [
 [エウレカセブン AO]  
 [EUREKA SEVEN AO ASTRAL OCEAN]
 
-<DocInfoCard image="/imgs/cover/AO.jpg" :info="docInfo" />
+<DocInfoCard image="/imgs/cover/ao.jpg" :info="docInfo" />
 
-::: warning
+::: warning 提示
 正在完善中……
 :::
 

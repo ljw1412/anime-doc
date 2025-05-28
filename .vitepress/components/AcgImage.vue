@@ -1,24 +1,26 @@
+<script setup lang="ts">
+import { withBase } from 'vitepress'
+
+defineOptions({ name: 'AcgImage' })
+const props = defineProps({
+  left: Boolean,
+  width: String,
+  src: { type: String, default: '' },
+  title: String,
+  fit: { type: String, default: 'cover' }
+})
+</script>
+
 <template>
-  <div class="acg-image" :class="[left ? 'is-left' : 'is-right']" :style="{ width }">
-    <img :src="$withBase(src)" :alt="title" />
+  <div
+    class="acg-image"
+    :class="[left ? 'is-left' : 'is-right']"
+    :style="{ width }"
+  >
+    <img :src="withBase(src)" :alt="title" :style="{ objectFit: fit }" />
     <div class="image-name">{{ title }}</div>
   </div>
 </template>
-
-<script lang="ts">
-import { defineComponent } from 'vue'
-
-export default defineComponent({
-  name: 'AcgImage',
-
-  props: {
-    left: Boolean,
-    width: String,
-    src: String,
-    title: String
-  }
-})
-</script>
 
 <style lang="scss">
 .acg-image {
