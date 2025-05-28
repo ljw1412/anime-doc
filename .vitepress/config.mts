@@ -10,8 +10,9 @@ export default defineConfig({
   title: '御宅世界',
   description: '动漫专题资料库',
   cleanUrls: true,
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/anime-doc/favicon.ico' }]],
   srcDir: './src',
+  base: '/anime-doc/',
   themeConfig: {
     outline: { level: 2, label: '页面导航' },
     logo: '/logo.png',
