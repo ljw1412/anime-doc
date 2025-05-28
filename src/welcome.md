@@ -9,6 +9,11 @@ editLink: false
 
 ## 更新记录
 
+#### 2025-05-28
+
+- 系统架构更新 ⚠
+  - 静态站点生成器迁移：`vuepress` => `vitepress`。
+
 #### 2025-05-16
 
 - PROJECT EUREKA
