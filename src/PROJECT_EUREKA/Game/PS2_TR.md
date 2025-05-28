@@ -59,7 +59,7 @@ description: PS2游戏《优莱卡7 TR系列》相关基础信息介绍。
 
 ## 登场人物
 
-**※游戏版漫画的人物角色请跳转到[《优莱卡 7 重力少年&滑空少女》#登场人物](/anime-doc/PROJECT_EUREKA/Comic/Gravity_Boys_and_Lifting_Girl.html#登场人物)查看**  
+**※游戏版漫画的人物角色请跳转到[《优莱卡 7 重力少年&滑空少女》#登场人物](/PROJECT_EUREKA/Comic/Gravity_Boys_and_Lifting_Girl.html#登场人物)查看**  
 **※介绍中标记的年龄是游戏开始时的年龄**
 
 ### 主要人物
