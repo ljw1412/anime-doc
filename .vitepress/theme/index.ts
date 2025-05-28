@@ -17,13 +17,13 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    console.log(siteData)
+    // console.log(siteData)
 
     Object.keys(componentMap).forEach((key) => {
       const matched = key.match(/components\/(\S+)\.vue/)
       if (matched) {
         app.component(matched[1], componentMap[key])
-        console.log('[全局组件注册]', matched[1], componentMap[key])
+        // console.log('[全局组件注册]', matched[1], componentMap[key])
       }
     })
   }
