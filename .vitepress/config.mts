@@ -14,7 +14,7 @@ export default defineConfig({
   srcDir: './src',
   base: '/anime-doc/',
   themeConfig: {
-    outline: { level: 2, label: '页面导航' },
+    outline: { level: 'deep', label: '页面导航' },
     logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
