@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import nodePath from 'node:path'
 import * as EurekaRoute from './config.eureka'
+import mdRules from './md-rules'
 
 const PACKAGE_ROOT = __dirname
 
@@ -34,7 +35,11 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/ljw1412/anime-doc' }
     ]
   },
-
+  markdown: {
+    config(md) {
+      md.use(mdRules)
+    }
+  },
   vite: {
     publicDir: '../public',
     css: {

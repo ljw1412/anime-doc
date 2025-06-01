@@ -136,3 +136,8 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+
+ruby > rt {
+  font-size: 60%;
+  opacity: 0.75;
+}
