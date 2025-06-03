@@ -1,6 +1,6 @@
 import type MarkdownIt from 'markdown-it'
 
-const RUBY_RE = /\[\[rb:(.+?)>(.+?)\]\]/
+const RUBY_RE = /^\[\[rb:(.+?)>(.+?)\]\]/
 
 export default function (md: MarkdownIt) {
   md.inline.ruler.after('text', 'ruby', (state, silent) => {
@@ -15,7 +15,11 @@ export default function (md: MarkdownIt) {
     if (!matched) return false
     const end = start + (matched.index || 0) + matched[0].length
     while (state.pos < max) {
-      if (state.src.charAt(state.pos) === ']') break
+      if (
+        state.src.charAt(state.pos) === ']' &&
+        state.src.charAt(state.pos + 1) === ']'
+      )
+        break
       state.md.inline.skipToken(state)
     }
     // console.log(content)
