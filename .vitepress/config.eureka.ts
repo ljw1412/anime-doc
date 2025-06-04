@@ -68,6 +68,7 @@ const sidebar: DefaultTheme.SidebarItem[] = [
           {
             text: '超进化系列',
             collapsed: false,
+            link: '/Movie/HI-EVOLUTION.md',
             items: [
               {
                 text: '超进化1',
