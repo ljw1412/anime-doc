@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 import nodePath from 'node:path'
 import * as EurekaRoute from './config.eureka'
 import mdRules from './md-rules'
+import MDFootnote from 'markdown-it-footnote'
 
 const PACKAGE_ROOT = __dirname
 
@@ -37,7 +38,7 @@ export default defineConfig({
   },
   markdown: {
     config(md) {
-      md.use(mdRules)
+      md.use(mdRules).use(MDFootnote)
     }
   },
   vite: {
