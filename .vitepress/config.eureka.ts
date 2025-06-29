@@ -63,7 +63,20 @@ const sidebar: DefaultTheme.SidebarItem[] = [
         items: [
           {
             text: '满载彩虹',
-            link: '/Movie/Good_night_Sleep_tight_Young_lovers.md'
+            collapsed: true,
+            link: '/Movie/eureka_pocket/Good_night_Sleep_tight_Young_lovers.md',
+            items: [
+              {
+                text: '设定',
+                collapsed: true,
+                base: '/PROJECT_EUREKA/',
+                items: generateSidebar({
+                  documentRootPath: '/src/PROJECT_EUREKA',
+                  scanStartPath: '/Movie/eureka_pocket/settings/',
+                  useTitleFromFrontmatter: true
+                }) as DefaultTheme.SidebarItem[]
+              }
+            ]
           },
           {
             text: '超进化系列',
