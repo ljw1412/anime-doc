@@ -12,7 +12,7 @@ const animeList = [
   {name:'优莱卡7 AO', image:'/imgs/cover/ao.jpg', url:'./Anime/AO/'},
 ]
 const movieList = [
-  {name:'交响诗篇优莱卡7 满载彩虹', image:'/imgs/cover/poketful.jpg', url:'./Movie/Good_night_Sleep_tight_Young_lovers'},
+  {name:'交响诗篇优莱卡7 满载彩虹', image:'/imgs/cover/poketful.jpg', url:'./Movie/eureka_pocket/Good_night_Sleep_tight_Young_lovers'},
   {name:'交响诗篇优莱卡7 超进化1', image:'/imgs/cover/HI-EVOLUTION-1.jpg', url:'./Movie/HI-EVOLUTION_1'},
   {name:'安妮莫奈/交响诗篇优莱卡7 超进化', image:'/imgs/cover/HI-EVOLUTION-2.jpg', url:'./Movie/ANEMONE'},
   {name:'优莱卡/交响诗篇优莱卡7 超进化', image:'/imgs/cover/HI-EVOLUTION-3.jpg', url:'./Movie/EUREKA'},
