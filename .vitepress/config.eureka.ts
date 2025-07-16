@@ -62,7 +62,7 @@ const sidebar: DefaultTheme.SidebarItem[] = [
         text: '电影',
         items: [
           {
-            text: '满载彩虹',
+            text: '彩虹满载',
             collapsed: true,
             link: '/Movie/eureka_pocket/Good_night_Sleep_tight_Young_lovers.md',
             items: [
