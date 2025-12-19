@@ -1,16 +1,16 @@
 ---
 lang: zh-CN
-title: 魂魄反馈系统 CFS
+title: 魂魄回馈系统 CFS
 description: CFS(コンパクフィードバックシステム / Compac Feedback System)
 ---
 
-# 魂魄反馈系统(CFS)
+# 魂魄回馈系统(CFS)
 
 [コンパクフィードバックシステム / Compac Feedback System]
 
 <AcgImage src="/imgs/settings/CFS.jpg" title="CFS" width="230px" />
 
-魂魄反馈系统是由塔州联邦军开发的操纵辅助系统。
+魂魄回馈系统是由塔州联邦军开发的操纵辅助系统。
 
 使用新浪潮训练生进行测试后，最终完成。
 
